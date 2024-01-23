@@ -1,4 +1,4 @@
-# Author: Chris Schmitz / Student ID : 001366917
+# Author: Chris Schmitz 
 # WGU C950 
 
 #import
